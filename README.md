@@ -101,7 +101,7 @@ El script es **autocontenido** y no requiere librerías externas adicionales a l
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone [URL-DE-TU-REPO]
+   git clone https://github.com/brazanzc/T3-analizador-sintactico-fortran.git
    ```
 
 2. **Entrar al directorio del proyecto:**
@@ -113,7 +113,7 @@ El script es **autocontenido** y no requiere librerías externas adicionales a l
 3. **Ejecutar el programa:**
 
    ```bash
-   python tu_archivo.py
+   python analizador_fortran.py
    ```
 
 ---
