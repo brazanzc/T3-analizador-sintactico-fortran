@@ -1,6 +1,4 @@
-Perfecto ✅ Aquí tienes **todo el contenido del README completo** en **un solo bloque**, listo para copiar y pegar directamente en tu archivo `README.md` sin cortes:
 
----
 
 # 🧠 Analizador Léxico y Sintáctico — Tarea 3
 
